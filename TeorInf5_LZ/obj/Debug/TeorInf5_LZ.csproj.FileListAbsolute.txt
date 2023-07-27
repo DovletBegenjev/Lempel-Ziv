@@ -1,0 +1,15 @@
+C:\Users\dovle\source\repos\TeorInf5_LZ\TeorInf5_LZ\bin\Debug\TeorInf5_LZ.exe.config
+C:\Users\dovle\source\repos\TeorInf5_LZ\TeorInf5_LZ\bin\Debug\TeorInf5_LZ.exe
+C:\Users\dovle\source\repos\TeorInf5_LZ\TeorInf5_LZ\bin\Debug\TeorInf5_LZ.pdb
+C:\Users\dovle\source\repos\TeorInf5_LZ\TeorInf5_LZ\obj\Debug\TeorInf5_LZ.csprojAssemblyReference.cache
+C:\Users\dovle\source\repos\TeorInf5_LZ\TeorInf5_LZ\obj\Debug\TeorInf5_LZ.csproj.CoreCompileInputs.cache
+C:\Users\dovle\source\repos\TeorInf5_LZ\TeorInf5_LZ\obj\Debug\TeorInf5_LZ.exe
+C:\Users\dovle\source\repos\TeorInf5_LZ\TeorInf5_LZ\obj\Debug\TeorInf5_LZ.pdb
+X:\VS Projects\TeorInf5_LZ\TeorInf5_LZ\bin\Debug\TeorInf5_LZ.exe.config
+X:\VS Projects\TeorInf5_LZ\TeorInf5_LZ\bin\Debug\TeorInf5_LZ.exe
+X:\VS Projects\TeorInf5_LZ\TeorInf5_LZ\bin\Debug\TeorInf5_LZ.pdb
+X:\VS Projects\TeorInf5_LZ\TeorInf5_LZ\obj\Debug\TeorInf5_LZ.csproj.AssemblyReference.cache
+X:\VS Projects\TeorInf5_LZ\TeorInf5_LZ\obj\Debug\TeorInf5_LZ.csproj.SuggestedBindingRedirects.cache
+X:\VS Projects\TeorInf5_LZ\TeorInf5_LZ\obj\Debug\TeorInf5_LZ.csproj.CoreCompileInputs.cache
+X:\VS Projects\TeorInf5_LZ\TeorInf5_LZ\obj\Debug\TeorInf5_LZ.exe
+X:\VS Projects\TeorInf5_LZ\TeorInf5_LZ\obj\Debug\TeorInf5_LZ.pdb
